@@ -3,6 +3,11 @@ layout: page
 title: Joe Huetteman!
 tagline: Nobody Cares Anyway
 ---
+---
+layout: category
+title: 2015 Rinker Captiva 196
+category: rinker
+---
 {% include JB/setup %}
     
 ## Posts

@@ -1,8 +1,8 @@
 ---
-title: 2015 Rinker 196 Captiva
-permalink: /rinker/
-layout: page
-sitemap: false 
+title: 2015 Rinker 196 Captiva  
+permalink: /rinker/  
+layout: page  
+sitemap: false  
 ---
 
 
@@ -13,6 +13,10 @@ sitemap: false
 **Engine:** Merc 4.3  
 **Outdrive:** Alpha 1  
 **Length:** 19'6"  
+**Purchase From:** [Krupas Boat Mart (Jackson Michigan)](http://www.krupas.com/)
+
+### Special Links ###
+[Mercury Service Bulletin on Fogging a MPI Engine](http://www.marinemechanic.com/merc/distributors/mercurymarine/sterndrive/foggingefi.pdf)
 
 ### Pictures ###
-![Side View](./_images/sideview.jpg) {:.some-css-class style="width: 100px"}
+![Side View](https://raw.githubusercontent.com/huettemanj/huettemanj.github.io/master/_images/sideview.jpg) {:.some-css-class style="width: 100px"}

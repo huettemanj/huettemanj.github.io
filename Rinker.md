@@ -14,6 +14,5 @@ sitemap: false
 **Outdrive:** Alpha 1  
 **Length:** 19'6"  
 
-
-
-
+### Pictures ###
+![Side View](/_images/sideview.jpg){:class="img-responsive"}

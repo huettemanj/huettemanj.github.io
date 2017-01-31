@@ -15,4 +15,4 @@ sitemap: false
 **Length:** 19'6"  
 
 ### Pictures ###
-![Side View](_images/sideview.jpg){:height="36px" width="36px"}  
+![Side View](_images/sideview.jpg) {:.some-css-class style="width: 100px"}

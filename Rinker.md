@@ -19,4 +19,4 @@ sitemap: false
 [Mercury Service Bulletin on Fogging a MPI Engine](http://www.marinemechanic.com/merc/distributors/mercurymarine/sterndrive/foggingefi.pdf)
 
 ### Pictures ###
-![Side View](https://raw.githubusercontent.com/huettemanj/huettemanj.github.io/master/_images/sideview.jpg){:.picture1 style="width: 100px"}
+

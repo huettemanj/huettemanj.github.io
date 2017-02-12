@@ -3,7 +3,9 @@ layout: page
 title: Joe Huetteman!
 tagline: Nobody Cares Anyway
 ---
-{% include JB/setup %}
+{% include JB/setup %}  
+## Important Topics 
+[2015 Rinker Captiva](https://huettemanj.github.io/rinker/) 
     
 ## Posts
 

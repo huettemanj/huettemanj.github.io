@@ -21,3 +21,16 @@ sitemap: false
 ### Pictures ###
 [Link To Show Room Pictures](<https://huettemanj.github.io/rinkerpictures>)  
 
+{% if string contains 'hello' %}
+   string includes 'hello'
+{% endif %}
+
+## Blog Posts about the Rinker
+
+<ul class="posts">
+  {% for post in site.posts %}
+    {% if post.title contains 'Rinker' %} 
+      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
+    {% endif %}
+  {% endfor %}
+</ul>

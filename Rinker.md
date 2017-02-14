@@ -11,9 +11,18 @@ sitemap: false
 **Purchase Date:** 1/27/2017  
 **Model:** Rinker Captiva 196  
 **Engine:** Merc 4.3  
+**Engine Serial Number:** 2A194338  
 **Outdrive:** Alpha 1  
 **Length:** 19'6"  
 **Purchase From:** [Krupas Boat Mart (Jackson Michigan)](http://www.krupas.com/)
+
+
+### Maintenance History ###  
+|             |          Service ||  
+ Service Date | Service Activity | Service Reason | Service Location | Cost|  
+ ------------ | -----------------| ---------------|:-----------: | -----------: |  
+1/272017      |   Purchased    | Cause I am stupid | Krupas | ********|  
+ 
 
 ### Special Links ###
 [Mercury Service Bulletin on Fogging a MPI Engine](http://www.marinemechanic.com/merc/distributors/mercurymarine/sterndrive/foggingefi.pdf)

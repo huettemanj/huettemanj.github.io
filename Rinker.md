@@ -21,11 +21,3 @@ sitemap: false
 ### Pictures ###
 [Link To Show Room Pictures](<https://huettemanj.github.io/rinkerpictures>)  
 
-### Blog Posts About the Rinker ###
-<ul class="posts">
-  {% for post in site.posts %}
-       {% if "Rinker" .in? post.title.include %}
-         <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-       {% end %}
-  {% endfor %}  
-</ul>

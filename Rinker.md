@@ -18,10 +18,9 @@ sitemap: false
 
 
 ### Maintenance History ###  
-|             |          Service ||  
- Service Date | Service Activity | Service Reason | Service Location | Cost|  
- ------------ | -----------------| ---------------|:-----------: | -----------: |  
-1/272017      |   Purchased    | Cause I am stupid | Krupas | ********|  
+| Service Date | Service Activity | Service Reason | Service Location | Cost |  
+| ------------ | ---------------- | -------------- | ---------------- | ---- | 
+|1/272017      |Purchased    |Cause I am stupid |Krupas | ********|  
  
 
 ### Special Links ###

@@ -19,11 +19,11 @@ sitemap: false
 
 ### Maintenance History ###  
 
-| Tables        | Are           | Cool  |  
-| ------------- |:-------------:| -----:|  
-| col 3 is      | right-aligned | $1600 |  
-| col 2 is      | centered      |   $12 |  
-| zebra stripes | are neat      |    $1 |  
+| Date       | Activity      | Vendor    | Cost   |  
+| ---------- |:-------------:| :--------:| ------ |  
+| 01/27/2017 | Purchased     | Krupas    | ****** | 
+  
+  
 
 ### Special Links ###
 [Mercury Service Bulletin on Fogging a MPI Engine](http://www.marinemechanic.com/merc/distributors/mercurymarine/sterndrive/foggingefi.pdf)

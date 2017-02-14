@@ -18,10 +18,12 @@ sitemap: false
 
 
 ### Maintenance History ###  
-| Service Date | Service Activity | Service Reason | Service Location | Cost |  
-| ------------ | ---------------- | -------------- | ---------------- | ---- | 
-|1/272017      |Purchased    |Cause I am stupid |Krupas | ********|  
- 
+
+| Tables        | Are           | Cool  |  
+| ------------- |:-------------:| -----:|  
+| col 3 is      | right-aligned | $1600 |  
+| col 2 is      | centered      |   $12 |  
+| zebra stripes | are neat      |    $1 |  
 
 ### Special Links ###
 [Mercury Service Bulletin on Fogging a MPI Engine](http://www.marinemechanic.com/merc/distributors/mercurymarine/sterndrive/foggingefi.pdf)
